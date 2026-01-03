@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+
+
+.container {
+  max-width: 768px;
+  margin: 0 auto;
+}
+
+
+a{
+  text-decoration: none;
+}
+
+ul, ol {
+  list-style: none;
+}
+
+img{
+  width: 100%;
+}
+
+body {
+  font-family: 'nato-sans', sans-serif;
+}
+
+.nato-sans-regular{
+  font-family: 'nato-sans-regular', sans-serif !important;
+}
+
+
+
+@font-face {
+  font-family: 'nato-sans';
+  src: url('/fonts/NotoSansArmenian-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'nato-sans-regular';
+  src: url('/fonts/NotoSansArmenian-Regular.ttf') format('truetype');
+}
+
+
