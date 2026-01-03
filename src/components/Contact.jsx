@@ -61,7 +61,7 @@ function Contact() {
       <h1 className="text-center text-2xl font-semibold mb-10">
         Խնդրում ենք հաստատել Ձեր ներկայությունը մինչև
         <br />
-        <span className="font-bold">01.12.2025</span>
+        <span className="font-bold">27.01.2026</span>
       </h1>
 
       <form onSubmit={formik.handleSubmit} className="space-y-10">
